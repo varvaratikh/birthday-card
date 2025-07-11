@@ -6,7 +6,8 @@
 
 body {
     background: linear-gradient(120deg, #ff9a9e 0%, #fad0c4 100%);
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    /*font-family: 'Comic Sans MS', sans-serif;*/
+    font-family: "Krungthep", sans-serif;
     overflow: hidden;
 }
 
